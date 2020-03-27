@@ -8,11 +8,11 @@ this script defines the auxiliary functions for the experiments
 
 import numpy as np
 import os
-import param
 import copy
 import sys
 import argparse
 
+import param
 import matrix_operations_wrapper
 
 units = 'CMB-CMB'
